@@ -3,20 +3,13 @@
 - 🌱 I’m currently learning Vue and React
 - 👯 I’m looking to collaborate on Fronted
 #### Most Used Languages  &&  Github Stars
-<p>
 <a href="https://github.com/woshifuyu">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woshifuyu&layout=compact" />
 </a>
-</p>
-<div class="isNull" style="height:10px;width:100%"></div>
-<p>
 <a href="https://github.com/woshifuyu">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=woshifuyu&count_private=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=woshifuyu&count_private=true&show_icons=true" />
 </a>
-</p>
 
-
- 
 <!--
 **woshifuyu/woshifuyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
