@@ -1,18 +1,20 @@
 ### Hi there 👋 , woshifuyu , 我是敷羽
-
+### My real name is Wei , A nobody in the world ！
+#### 🌱 I’m currently learning Vue and React
+#### 👯 I’m looking to collaborate on Fronted
 <p>
 <a href="https://github.com/woshifuyu">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woshifuyu&layout=compact" />
 </a>
 </p>  
 <!--  -->
-huuan
+
 <p>
 <a href="https://github.com/woshifuyu">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=woshifuyu&count_private=true&show_icons=true" />
 </a>
   </p>
-123
+
 
  
 <!--
